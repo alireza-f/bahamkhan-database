@@ -1,4 +1,4 @@
-# bahankhan-database
+# bahamkhan-database
 
 This is a Normalized model of [Bahamkhan](https://github.com/alireza-f/bahamkhan) project's database.
 
