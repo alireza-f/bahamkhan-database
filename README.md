@@ -1,6 +1,6 @@
 # bahamkhan-database
 
-This is a Normalized model of [Bahamkhan](https://github.com/alireza-f/bahamkhan) project's database.
+This is a Normalized (3NF) model of [Bahamkhan](https://github.com/alireza-f/bahamkhan) project's database.
 
 # UML Diagram
 
